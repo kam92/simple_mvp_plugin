@@ -1,5 +1,8 @@
-# simple_mvp_plugin
+AMXX Plugin to show round MVP <br>
+Will work in any HL1 based games or any server running AMXX Mod (version needs to be at least 1.8) <br> <br>
 
-Simple MVP on chat + screen message after round end. <br>
-Doesn't account map objective, only kills. <br>
-Doesn't store anything in the database.
+Will display centered screen message with the MVP, the kill count, HS number and damage. <br>
+Will also display in the game chat and server console. <br>
+
+Does not account for map objectives (bomb/hostage), only kills and damage. <br>
+Does not store the MVP, no databases or external connections. <br>
